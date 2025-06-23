@@ -1,4 +1,4 @@
-# German Credit Cards Analysis 
+# Credit Cards Analysis for German Users in R
 
 ## Project Description:
 This project covers key concepts and techniques for data manipulation, exploration, and predictive modeling using R programming.
